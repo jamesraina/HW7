@@ -4,7 +4,7 @@ author: "Raina James (rj24685)"
 output: html_document
 ---
 
-**GitHub Repository**: [SDS-315 Homework 7 Repository](https://github.com/jamesraina/HW7/new/main)
+**GitHub Repository**: [SDS-315 Homework 7 Repository](https://github.com/jamesraina/HW7/blob/main/SDS315-HW7)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message=FALSE, warning=FALSE)
